@@ -20,7 +20,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Ipiranga, com f
 * **Tech Stack:** Python, Keras, TensorFlow, Scikit-Learn, Pandas, RegEx
 * **Descrição:** Modelo de Redes Neurais e PLN para classificação de intenções de usuários, utilizando vetorização de texto e mecanismo de *Human-in-the-Loop* (Aprendizagem Ativa) para retreinamento dinâmico. Integrado ao dataset do IMDb para recomendação personalizada.
 
-#### [Sistema de Controle de Pedidos e Gestão](https://github.com/vinny-mariano/pizzarrita)
+#### [Sistema de Controle de Pedidos e Gestão](https://github.com/vinny-mariano/pizzarrita/tree/main/src)
 * **Tech Stack:** Java, PostgreSQL, Git
 * **Descrição:** Aplicação Back-end focada em regras de negócio para gerenciamento comercial, integrando a camada de persistência em PostgreSQL com consultas SQL otimizadas e modelagem relacional.
 
