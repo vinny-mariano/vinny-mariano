@@ -16,7 +16,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Ipiranga, com f
 
 ### Projetos em Destaque
 
-#### [Classificador de Intenções & Recomendador de Filmes](https://github.com/vinny-mariano/Ford-Enter-Python-/tree/main/ia%20generativa/12.06/indicador%20de%20filmes)
+#### [Classificador de Intenções & Recomendador de Filmes](https://github.com/vinny-mariano/Ford-Enter-Python-/tree/main/ia%20generativa/12.06)
 * **Tech Stack:** Python, Keras, TensorFlow, Scikit-Learn, Pandas, RegEx
 * **Descrição:** Modelo de Redes Neurais e PLN para classificação de intenções de usuários, utilizando vetorização de texto e mecanismo de *Human-in-the-Loop* (Aprendizagem Ativa) para retreinamento dinâmico. Integrado ao dataset do IMDb para recomendação personalizada.
 
