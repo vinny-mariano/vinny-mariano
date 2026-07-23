@@ -9,7 +9,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Ipiranga, com f
 * **Linguagens:** Java (POO, Coleções, Lógica), Python, Linguagem C, SQL, Shell Script (Bash)
 * **Engenharia de Dados & Persistência:** PostgreSQL, Pandas, NumPy, Scikit-Learn
 * **IA & Machine Learning:** Keras, TensorFlow, Processamento de Linguagem Natural (PLN / NLP)
-* **Ferramentas & Ambientes:** Git, GitHub, Linux (Fedora), VS Code, IntelliJ IDEA
+* **Ferramentas & Ambientes:** Git, GitHub, Linux, VS Code, IntelliJ IDEA
 * **Segurança da Informação:** Fundamentos de DevSecOps, NIST CSF, Zero Trust, OWASP Top 10
 
 ---
