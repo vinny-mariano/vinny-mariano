@@ -4,7 +4,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Ipiranga, com f
 
 ---
 
-### 🛠️ Habilidades & Tecnologias
+### Habilidades & Tecnologias
 
 * **Linguagens:** Java (POO, Coleções, Lógica), Python, Linguagem C, SQL, Shell Script (Bash)
 * **Engenharia de Dados & Persistência:** PostgreSQL, Pandas, NumPy, Scikit-Learn
