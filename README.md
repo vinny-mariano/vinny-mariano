@@ -26,6 +26,14 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Ipiranga, com f
 
 ---
 
+### Projeto em andamento
+
+#### [NutriVision - App de controle de calorias](https://github.com/vinny-mariano/NutriVision)
+- **Tech Stack:** Java, Python, Angular, PostgreSQL, Git
+- **Descrição:** Aplicação de controle de calorias com função que utiliza visão computacional para a identificação de alimentos e cálculo de consumo de calorias
+
+---
+
 ### Formação & Capacitação
 
 * **Tecnólogo em Análise e Desenvolvimento de Sistemas** — FATEC Ipiranga *(2025 – 2028)*
