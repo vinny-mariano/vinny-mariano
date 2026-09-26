@@ -32,6 +32,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Ipiranga, com f
 - **Tech Stack:** Java, Python, Angular, PostgreSQL, Git
 - **Descrição:** Aplicação de controle de calorias com função que utiliza visão computacional para a identificação de alimentos e cálculo de consumo de calorias.
 
+#### [Infocycle - E-commerce de dispositivos recertificados](https://github.com/vinny-mariano/Infocycle)
+- **Tech Stack:** Angular, Typescript, Javascrip, Bootstrap, Git
+- **Descrição:** Website com responsividade para e-commerce utilizando Angular e Bootstrap.
+
 ---
 
 ### Formação & Capacitação
