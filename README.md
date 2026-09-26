@@ -1,6 +1,6 @@
 # Olá, eu sou Vinícius Mariano
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Ipiranga, com foco em **Desenvolvimento de Software (Back-end Java & Python)** e **Cibersegurança**.
+Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Ipiranga. Com bagagem em Design e Audiovisual, aplico a visão sistêmica e a atenção aos detalhes no **Desenvolvimento Back-end (Java & Python)** e na **Cibersegurança**, caminhando rumo à **Arquitetura de Soluções**.
 
 ---
 
