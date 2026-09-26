@@ -40,7 +40,8 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Ipiranga, com f
 
 ### Formação & Capacitação
 
-* **Tecnólogo em Análise e Desenvolvimento de Sistemas** — FATEC Ipiranga *(2025 – 2028)*
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas - Noturno** — FATEC Ipiranga *(2026 – 2029)*
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas - Vespertino** — FATEC Ipiranga *(2025 – 2028) - Trancado*
 * **Bootcamp KPMG — Trilha de Cibersegurança** *(2026)*
 * **Ciência de Dados, Python e IA Generativa** — SENAI *(360h | 2026)*
 * **Técnico em Comunicação Visual/Design Gráfico** — ETEC Tiquatira *(2012 - 2013)*
