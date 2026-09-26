@@ -47,7 +47,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Ipiranga, com f
 * **Técnico em Comunicação Visual/Design Gráfico** — ETEC Tiquatira *(2012 - 2013)*
 * **Web Design — ETEC Aprígio Gonzaga** *(2011)*
 
-
 ---
 
 ### Contato
